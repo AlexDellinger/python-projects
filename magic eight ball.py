@@ -1,6 +1,6 @@
 import random
 
-answers = ['yes', 'no', 'ask later', 'maybe', 'do not count on it','bad', 'good', 'horrible'] 
+answers = ['yes', 'no', 'ask later', 'maybe', 'do not count on it',] 
 
 print("Welcome to the mystical magic eight ball.")
 
